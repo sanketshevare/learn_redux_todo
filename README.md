@@ -1,5 +1,3 @@
-Certainly! Here's the `README.md` with installation instructions formatted in Markdown:
-
 # Todo App with Redux Toolkit
 
 This is a simple Todo application built using React and Redux Toolkit.
